@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Verbose disco backend services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elizabeth Pfachi",
+  "license": "ISC"
+}
